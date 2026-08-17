@@ -1,0 +1,5 @@
+tipo;distancia_metros;duracao_minutos;calorias;email
+corrida;10000;50;350;usuario01@saepsaude.com
+trilha;10000;50;350;usuario02@saepsaude.com
+caminhada;5000;50;350;usuario01@saepsaude.com
+corrida;3000;50;350;usuario02@saepsaude.com
