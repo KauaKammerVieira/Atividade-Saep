@@ -1,3 +1,5 @@
+import React from "react";
+
 export default function Pagination({ pagina, totalPaginas, onChange }) {
   const pages = Array.from({ length: totalPaginas }, (_, i) => i + 1);
 

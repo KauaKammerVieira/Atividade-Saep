@@ -1,3 +1,4 @@
+import React from "react";
 import { Activity as ActivityIcon } from "lucide-react";
 
 export default function ProfileSidebar({ empresa, active = false }) {

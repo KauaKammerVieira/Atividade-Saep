@@ -1,4 +1,4 @@
-import { useState } from "react";
+import React, { useState } from "react";
 import { Navigate, Route, Routes } from "react-router-dom";
 import Home from "./pages/Home.jsx";
 import Activities from "./pages/Activities.jsx";

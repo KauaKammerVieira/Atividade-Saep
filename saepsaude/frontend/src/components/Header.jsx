@@ -1,3 +1,4 @@
+import React from "react";
 import { LogOut } from "lucide-react";
 
 export default function Header({ logado, onLogin, onLogout }) {
